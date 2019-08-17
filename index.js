@@ -8,10 +8,10 @@ var path = require('path');
 * Configuration for AWS Elastic Search
 */
 var esDomain = {
-    region: 'ap-south-1',
-    endpoint: 'search-videos-wy7pxpriu6r5vupoxwjlsbyn3q.ap-south-1.es.amazonaws.com',
-    index: 'videos',
-    doctype: '_doc'
+    region: '#####',
+    endpoint: '###',
+    index: '###',
+    doctype: '###'
 };
 
 /*
